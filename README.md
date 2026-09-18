@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=190&section=header&text=Rafael%20Alves&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20%7C%20Mobile&descAlignY=60&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=190&section=header&text=Rafael%20Alves&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%7C%20Full%20Stack%20%7C%20Mobile&descAlignY=60&descSize=20"/>
 
-### Software Engineering Student | Full Stack & Mobile Developer
+### Software Engineering Student | Backend • Full Stack • Mobile
 
-Desenvolvendo soluções Web, Backend e Mobile com foco em produto, arquitetura e experiência do usuário.
+Construindo APIs, aplicações Web e experiências Mobile com foco em arquitetura, produto e código sustentável.
 
 <br>
 
@@ -31,59 +31,19 @@ Desenvolvendo soluções Web, Backend e Mobile com foco em produto, arquitetura 
 
 </div>
 
-<br>
-
 ---
 
 # Sobre mim
 
-Sou estudante de **Engenharia de Software** e desenvolvedor **Full Stack**, trabalhando com aplicações Web, APIs, bancos de dados e desenvolvimento Mobile.
+Sou estudante de **Engenharia de Software** com foco principal em **Backend**, sem perder a visão do produto completo. Desenvolvo desde APIs e persistência de dados até interfaces Web e aplicações Mobile.
 
-Tenho maior interesse em **Backend**, especialmente no ecossistema **Java**, e também desenvolvo APIs com **Node.js, Python/FastAPI e PHP**. Gosto de trabalhar no produto completo, desde o banco de dados e a API até a interface Web ou Mobile.
+Meu foco técnico passa por **Java/Spring Boot**, **Node.js**, **Python/FastAPI** e **PHP** no backend; **React** no frontend; e **Swift/iOS** e **React Native** no desenvolvimento mobile.
 
-Atualmente desenvolvo projetos envolvendo:
-
-- Backend e APIs REST
-- Java e Spring Boot
-- Node.js
-- Python e FastAPI
-- PHP
-- React e React Native
-- Swift / iOS
-- Docker
-- MySQL, PostgreSQL e Redis
-- Arquitetura e Engenharia de Software
+Também estudo arquitetura de software, autenticação e autorização, APIs REST, bancos relacionais, cache, mensageria e containerização.
 
 ---
 
-# Tecnologias & Ferramentas
-
-## Linguagens
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-
-</p>
-
----
-
-## Frontend
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-</p>
-
----
+# Stack
 
 ## Backend
 
@@ -91,48 +51,38 @@ Atualmente desenvolvo projetos envolvendo:
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
 </p>
 
----
-
-## Mobile
+## Frontend & Mobile
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
 
 </p>
 
----
-
-## Bancos de Dados
+## Dados & Infraestrutura
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-
-</p>
-
----
-
-## DevOps & Ferramentas
-
-<p align="center">
-
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
 
 </p>
 
@@ -142,79 +92,73 @@ Atualmente desenvolvo projetos envolvendo:
 
 ## ChironAcademy
 
-Sistema acadêmico desenvolvido para gerenciamento de cursos, professores, alunos e autenticação, com foco em Engenharia de Software, requisitos e arquitetura de aplicações.
+Plataforma acadêmica **Full Stack** para gerenciamento de cursos, períodos, disciplinas, turmas, professores e alunos. O projeto utiliza autenticação com JWT, autorização por perfil e uma arquitetura separada entre Frontend, Backend e Banco de Dados.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-
-## FinanceHub
-
-Hub financeiro multiplataforma em desenvolvimento, pensado para centralizar informações e serviços financeiros em uma experiência única para Web, iOS e Android, com foco em arquitetura, integração de APIs e evolução do produto.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-[Repositório](https://github.com/rafael-mindahead/FinanceHub)
-
----
-
-## NewBank
-
-Sistema bancário desenvolvido utilizando Programação Orientada a Objetos, com operações bancárias e estudos envolvendo arquitetura de PIX, cache e sistemas distribuídos.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## EcoSense
-
-Plataforma de monitoramento ambiental integrando dispositivos IoT, aplicações Web, banco de dados e desenvolvimento Mobile.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+[![Repository](https://img.shields.io/badge/Repository-ChironAcademy-181717?style=for-the-badge&logo=github)](https://github.com/rafael-mindahead/ChironAcademy)
 
 ---
 
 ## AuthService
 
-API de autenticação desenvolvida com foco em segurança, reutilização e controle de acesso.
-
-Principais funcionalidades:
-
-- Cadastro de usuários
-- Login
-- JWT
-- Autorização por perfil
-- Recuperação de senha
-- Validação de dados
+Serviço de autenticação e autorização construído com **Python + FastAPI**, explorando segurança de APIs, persistência, cache e arquitetura de serviços independentes.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-2563EB?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![Repository](https://img.shields.io/badge/Repository-AuthService-181717?style=for-the-badge&logo=github)](https://github.com/rafael-mindahead/authService)
 
 ---
 
-## Gennus ERP
+## EcoSense
 
-Integração entre um sistema ERP Web e uma aplicação Mobile iOS, utilizando API para comunicação entre as diferentes plataformas.
+Sistema ciberfísico de monitoramento ambiental integrando **ESP32, IoT, API REST, banco de dados, dashboard Web e aplicação iOS**.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-2563EB?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![Repository](https://img.shields.io/badge/Repository-EcoSense-181717?style=for-the-badge&logo=github)](https://github.com/rafael-mindahead/EcoSense)
+
+---
+
+## FinanceHub
+
+Hub financeiro multiplataforma em desenvolvimento para reunir experiências **Web, iOS e Android** em uma arquitetura única, com foco em integração de APIs, organização financeira e evolução incremental do produto.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Status:** arquitetura e estrutura inicial do projeto.
+
+[![Repository](https://img.shields.io/badge/Repository-FinanceHub-181717?style=for-the-badge&logo=github)](https://github.com/rafael-mindahead/FinanceHub)
+
+---
+
+# Outros Projetos
+
+### NewBank
+Projeto de estudos em **Java e Programação Orientada a Objetos**, explorando operações bancárias, arquitetura de PIX, cache e evolução para sistemas distribuídos.
+
+[![Repository](https://img.shields.io/badge/Repository-NewBank-181717?style=flat-square&logo=github)](https://github.com/rafael-mindahead/newBank)
+
+### Gennus ERP
+Projeto de gestão de estoque com integração entre **ESP32, Node.js/Express e MySQL**, explorando comunicação entre hardware e software.
+
+[![Repository](https://img.shields.io/badge/Repository-Gennus_ERP-181717?style=flat-square&logo=github)](https://github.com/rafael-mindahead/Gennus-ERP)
 
 ---
 
@@ -226,11 +170,7 @@ Integração entre um sistema ERP Web e uma aplicação Mobile iOS, utilizando A
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-mindahead&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
 <br>
-
-<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafael-mindahead&theme=tokyonight&hide_border=true"/>
 
@@ -238,7 +178,7 @@ Integração entre um sistema ERP Web e uma aplicação Mobile iOS, utilizando A
 
 ---
 
-# Atualmente estudando
+# Foco Atual
 
 <p align="center">
 
@@ -248,7 +188,6 @@ Integração entre um sistema ERP Web e uma aplicação Mobile iOS, utilizando A
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 </p>
 
@@ -270,13 +209,9 @@ Integração entre um sistema ERP Web e uma aplicação Mobile iOS, utilizando A
 <img src="https://img.shields.io/badge/GitHub-rafael--mindahead-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
 <br><br>
 
-<div align="center">
-
-### Software Engineering | Full Stack | Backend | Mobile
+**Software Engineering | Backend | Full Stack | Mobile**
 
 Curitiba, Brazil
 
