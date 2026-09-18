@@ -151,6 +151,20 @@ Sistema acadêmico desenvolvido para gerenciamento de cursos, professores, aluno
 
 ---
 
+## FinanceHub
+
+Hub financeiro multiplataforma em desenvolvimento, pensado para centralizar informações e serviços financeiros em uma experiência única para Web, iOS e Android, com foco em arquitetura, integração de APIs e evolução do produto.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[Repositório](https://github.com/rafael-mindahead/FinanceHub)
+
+---
+
 ## NewBank
 
 Sistema bancário desenvolvido utilizando Programação Orientada a Objetos, com operações bancárias e estudos envolvendo arquitetura de PIX, cache e sistemas distribuídos.
