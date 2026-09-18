@@ -9,10 +9,12 @@ Desenvolvendo soluções Web, Backend e Mobile com foco em produto, arquitetura 
 <br>
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 <br><br>
@@ -37,16 +39,17 @@ Desenvolvendo soluções Web, Backend e Mobile com foco em produto, arquitetura 
 
 Sou estudante de **Engenharia de Software** e desenvolvedor **Full Stack**, trabalhando com aplicações Web, APIs, bancos de dados e desenvolvimento Mobile.
 
-Tenho maior interesse no ecossistema **Java para Backend**, mas gosto de trabalhar no produto completo, desde o banco de dados e a API até a interface Web ou Mobile.
+Tenho maior interesse em **Backend**, especialmente no ecossistema **Java**, e também desenvolvo APIs com **Node.js, Python/FastAPI e PHP**. Gosto de trabalhar no produto completo, desde o banco de dados e a API até a interface Web ou Mobile.
 
 Atualmente desenvolvo projetos envolvendo:
 
-- Full Stack Development
+- Backend e APIs REST
 - Java e Spring Boot
-- React
-- React Native
+- Node.js
+- Python e FastAPI
+- PHP
+- React e React Native
 - Swift / iOS
-- APIs REST
 - Docker
 - MySQL, PostgreSQL e Redis
 - Arquitetura e Engenharia de Software
@@ -142,7 +145,7 @@ Atualmente desenvolvo projetos envolvendo:
 Sistema acadêmico desenvolvido para gerenciamento de cursos, professores, alunos e autenticação, com foco em Engenharia de Software, requisitos e arquitetura de aplicações.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
